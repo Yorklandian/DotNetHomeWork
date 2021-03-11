@@ -1,0 +1,13 @@
+C:\Users\YORK\source\repos\homework2\Questionn2\bin\Debug\netcoreapp3.1\Questionn2.exe
+C:\Users\YORK\source\repos\homework2\Questionn2\bin\Debug\netcoreapp3.1\Questionn2.deps.json
+C:\Users\YORK\source\repos\homework2\Questionn2\bin\Debug\netcoreapp3.1\Questionn2.runtimeconfig.json
+C:\Users\YORK\source\repos\homework2\Questionn2\bin\Debug\netcoreapp3.1\Questionn2.runtimeconfig.dev.json
+C:\Users\YORK\source\repos\homework2\Questionn2\bin\Debug\netcoreapp3.1\Questionn2.dll
+C:\Users\YORK\source\repos\homework2\Questionn2\bin\Debug\netcoreapp3.1\Questionn2.pdb
+C:\Users\YORK\source\repos\homework2\Questionn2\obj\Debug\netcoreapp3.1\Questionn2.csprojAssemblyReference.cache
+C:\Users\YORK\source\repos\homework2\Questionn2\obj\Debug\netcoreapp3.1\Questionn2.AssemblyInfoInputs.cache
+C:\Users\YORK\source\repos\homework2\Questionn2\obj\Debug\netcoreapp3.1\Questionn2.AssemblyInfo.cs
+C:\Users\YORK\source\repos\homework2\Questionn2\obj\Debug\netcoreapp3.1\Questionn2.csproj.CoreCompileInputs.cache
+C:\Users\YORK\source\repos\homework2\Questionn2\obj\Debug\netcoreapp3.1\Questionn2.dll
+C:\Users\YORK\source\repos\homework2\Questionn2\obj\Debug\netcoreapp3.1\Questionn2.pdb
+C:\Users\YORK\source\repos\homework2\Questionn2\obj\Debug\netcoreapp3.1\Questionn2.genruntimeconfig.cache
